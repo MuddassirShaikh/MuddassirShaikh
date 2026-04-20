@@ -1,66 +1,79 @@
-# Hi there, I'm Muddassir Shaikh 👋
-### Founder & Senior Full-Stack Developer | Software House Lead
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=MuddassirShaikh&label=Profile%20Views&color=0e75b6&style=flat" alt="MuddassirShaikh" />
+# <p align="center">Greetings, I'm Muddassir Shaikh 👋</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Founder+of+Idiogo.com;Senior+Full-Stack+Developer;SEO+%26+Automation+Expert;Building+Scalable+B2B+Solutions" alt="Typing SVG" />
 </p>
 
-> **Transforming Complex Business Logic into Scalable Digital Solutions.** > With over 4 years of experience leading a dedicated team of developers, we specialize in high-performance B2B platforms, advanced web scraping, and robust backend architectures.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MuddassirShaikh&label=Profile%20Views&color=0e75b6&style=flat-square" alt="MuddassirShaikh" />
+</p>
 
 ---
 
-### 🚀 Agency Expertise & Services
-- **Custom Web Development:** Enterprise-level SaaS and B2B Trade Hubs.
-- **Backend Architecture:** Scalable Laravel & Node.js environments.
-- **Automation & Scraping:** Advanced data extraction using Playwright & Headless browsers.
-- **SEO & Security:** Performance optimization and automated security auditing (Nuclei).
+### 🏛️ About Me & The Agency
+I lead a high-performance software house dedicated to engineering complex web ecosystems. Currently, our flagship focus is **[Idiogo.com](https://idiogo.com)**, a next-generation B2B trade platform designed for global manufacturers and sellers.
+
+- 🚀 **Core Vision:** Building high-ROI digital assets for global trade.
+- 🛠️ **Expertise:** Scalable Laravel architecture, Web Scraping at scale, and SEO-driven development.
+- 📈 **Experience:** 4+ years of delivering enterprise-grade solutions.
 
 ---
 
-### 🛠️ Our Tech Stack
+### 💻 The Tech Ecosystem
 
-**Frontend & UI/UX**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend & Scripting**
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Database & Infrastructure**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3EC98E?style=for-the-badge&logo=supabase&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Power Dashboard
-
-<table align="center">
+<table width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuddassirShaikh&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend Mastery</h4>
+      <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vue-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddassirShaikh&layout=compact&theme=tokyonight" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuddassirShaikh&theme=tokyonight" alt="GitHub Streak" />
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Architecture</h4>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/NodeJS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/Supabase-3EC98E?style=for-the-badge&logo=supabase&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🏆 Achievements & Projects
-- 🛡️ Developed **KTracker** - An advanced Electron-based productivity monitoring system.
-- 🌐 Engineering **Tradeb2bhub.com** - A next-gen B2B manufacturing marketplace.
-- ⚡ Optimized synchronization for millions of SKUs from global marketplaces.
+### 📊 Performance Dashboard (4-Year Insights)
 
-### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/muddassir-shaikh)
-- 📧 [Email Me](mailto:your-email@example.com)
-- 🌍 [Portfolio Website](https://yourwebsite.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuddassirShaikh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuddassirShaikh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuddassirShaikh&theme=tokyonight&hide_border=true" width="97%" />
+</p>
 
 ---
+
+### 📁 Featured Projects
+* 🌍 **[Idiogo.com](https://idiogo.com)** - B2B Marketplace connecting global manufacturers with strategic buyers.
+* 📊 **KTracker** - A sophisticated desktop app for team productivity monitoring & activity analytics.
+* 🕷️ **Smart Sync Engine** - Handling 1M+ SKU updates via intelligent API throttling and synchronization.
+
+---
+
+### 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuddassirShaikh&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MuddassirShaikh&theme=tokyonight&no-frame=true&column=4" />
+</p>
+
+---
+
+### 🤝 Let's Collaborate
+<p align="left">
+<a href="https://linkedin.com/in/muddassir-shaikh" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/muddassirshaikh/muddassirshaikh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
